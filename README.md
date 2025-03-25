@@ -1,6 +1,11 @@
 # Private AI Challenge - Containerized AI Deployment
 
-This project allows you to deploy your own private AI assistant with a locally running Large Language Model (LLM) and a ChatGPT-like web interface. It's a practical application of Docker containerization that gives you control over your AI interactions without relying on external cloud services.
+<p align="center">
+  <img src="./assets/private-ai-container.png" />
+</p>
+
+This project allows you to deploy your own private AI assistant with a locally running Large Language Model (LLM) and a ChatGPT-like web interface. It's a practical application of Docker containerization that gives you control over your AI 
+interactions without relying on external cloud services.
 
 ## What You'll Deploy
 
@@ -287,6 +292,10 @@ Both Ollama and Open WebUI are configured to use Docker volumes for persistent s
 ---
 
 ## About Alphabravo
+
+<p align="center">
+  <img src="./assets/ab-logo-wide.png" />
+</p>
 
 **AlphaBravo** provides products, services, and training for Kubernetes, Cloud, and DevSecOps. We are a Rancher and SUSE partner.
 
